@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on A Hugo website</title>
+    <title>Posts on Andrea Makamba</title>
     <link>/post/</link>
-    <description>Recent content in Posts on A Hugo website</description>
+    <description>Recent content in Posts on Andrea Makamba</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Jun 2018 00:00:00 +0000</lastBuildDate>
@@ -12,13 +12,33 @@
     
     
     <item>
-      <title>Factorial</title>
+      <title>About</title>
+      <link>/2018/06/18/about/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/06/18/about/</guid>
+      <description>knitr::opts_chunk$set(collapse = TRUE)  Alors, ça c’est une petite redaction sur moi, l’auteur de cette site.
+Bonjour! My name is Andrea Makamba, and if you haven’t gathered by now, I speak both English and French.
+I am 19 years old, from Zimbabwe (Southern Africa, the country that is shaped like a teapot). I love it here. The open veld spaces, favourable weather, friendly people, what isn’t there to love about this country?</description>
+    </item>
+    
+    <item>
+      <title>Factorial, The Package You Need</title>
       <link>/2018/06/18/factorial/</link>
       <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/06/18/factorial/</guid>
       <description>knitr::opts_chunk$set(collapse = TRUE)  Everyone&amp;rsquo;s Favourite Operation Factorial, commonly symbolised as (!) is the mathematical function whereby you multiply every number from 1, leading up to the number from the number you&amp;rsquo;re taking the factorial of. For example 5! is equal to 5 * 4 * 3 * 2 * 1 or 120.
 It&amp;rsquo;s simple enough to perform this operation with pure brainpower when dealing with small numbers, but as you scale up it becomes even more difficult to do so.</description>
+    </item>
+    
+    <item>
+      <title>Kaggle Home Equity Project</title>
+      <link>/2018/06/18/kaggle-home-equity-project/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/06/18/kaggle-home-equity-project/</guid>
+      <description>knitr::opts_chunk$set(echo = TRUE)  The &amp;lsquo;Home Credit Default Risk&amp;rsquo; competition on Kaggle aims to model whether an individual will default on their home loan based on numerous characteristics ranging from their credit card balance to marital status to the results of previous loan applications. Using this data, I decided to use a linear model, incorporating all these charasteristics in order to produce an accurate model. In future iterations, I hope to eliminate certain attributes that don&amp;rsquo;t contribute to the output in a method known as &amp;lsquo;Human Factor Engineering&amp;rsquo;.</description>
     </item>
     
     <item>

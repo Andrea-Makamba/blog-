@@ -1,5 +1,5 @@
 ---
-title: Factorial
+title: Factorial, The Package You Need
 author: ~
 date: '2018-06-18'
 slug: factorial
